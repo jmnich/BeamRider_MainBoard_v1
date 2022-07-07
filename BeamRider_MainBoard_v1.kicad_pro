@@ -414,6 +414,38 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "17c8d44a-e155-4998-81cb-438e1ee83fa9",
+      "MCU"
+    ],
+    [
+      "57a63c99-7f7e-48cb-8e61-8ef0276bf28a",
+      "line_sensors"
+    ],
+    [
+      "4b62ad27-c3c4-44dc-845c-a46dc33e6d80",
+      "Peripherals"
+    ],
+    [
+      "4ab7b350-0bbd-481f-bf8f-25946d061de1",
+      "External connectors"
+    ],
+    [
+      "609946a4-476d-49df-a6f7-4168ea2d2a59",
+      "UI"
+    ],
+    [
+      "757e3ff0-07b3-4895-9427-ae7ab028de3c",
+      "Drive"
+    ],
+    [
+      "75dee642-618b-4ed2-b6e1-8db2e50d8e51",
+      "Structural"
+    ],
+    [
+      "4b8dabb8-2cfb-49bf-8c5b-3a99d0c3a8a8",
+      "Power"
     ]
   ],
   "text_variables": {}
