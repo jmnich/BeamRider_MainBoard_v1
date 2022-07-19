@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "RPR_220")(type "KiCad")(uri "${KIPRJMOD}/lib/RPR_220.kicad_sym")(options "")(descr ""))
+  (lib (name "ADP2291")(type "KiCad")(uri "${KIPRJMOD}/lib/ADP2291.kicad_sym")(options "")(descr ""))
 )

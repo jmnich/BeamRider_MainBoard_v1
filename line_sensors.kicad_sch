@@ -198,7 +198,7 @@
   )
 
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 190.8548 82.6615 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 190.8548 82.6615 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 21584ec6-80e5-4dd6-ba7d-50a1a21763eb)
     (property "Reference" "U3" (id 0) (at 197.2048 80.7564 0)
@@ -225,7 +225,7 @@
     (pin "4" (uuid d5170e75-d9bc-49e3-bd92-f94f596ffa01))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 253.0848 34.4015 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 253.0848 34.4015 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 21e40f47-68f1-4e6b-b41b-96c38b453398)
     (property "Reference" "U9" (id 0) (at 259.4348 32.4964 0)
@@ -252,7 +252,7 @@
     (pin "4" (uuid e9543f3c-cd46-4dbe-9725-9e4f6abbbc7a))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 229.87 33.02 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 229.87 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8c4a4a48-0e00-4f86-ae38-eaf2e71cf328)
     (property "Reference" "U7" (id 0) (at 236.22 31.1149 0)
@@ -279,7 +279,7 @@
     (pin "4" (uuid bfdaae07-969c-474d-a54f-6c5708462e18))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 239.1148 58.5315 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 239.1148 58.5315 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b07870cc-e3e3-46dc-9a92-019fba776963)
     (property "Reference" "U8" (id 0) (at 245.4648 56.6264 0)
@@ -306,7 +306,7 @@
     (pin "4" (uuid 03bd6168-0fb8-4f6f-ab49-ede1e8e10e9a))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 177.8 59.69 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 177.8 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b5094eef-9f39-4eff-9d68-32771bd2a5d7)
     (property "Reference" "U2" (id 0) (at 184.15 57.7849 0)
@@ -333,7 +333,7 @@
     (pin "4" (uuid e5b2aea2-d374-46d6-80c0-0535a2ae5681))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 167.64 33.02 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 167.64 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b6aef2d5-a3e7-4ab4-9b63-77387460522d)
     (property "Reference" "U1" (id 0) (at 173.99 31.1149 0)
@@ -360,7 +360,7 @@
     (pin "4" (uuid 242bf942-1d00-40e0-8e33-9df3436484ba))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 218.7948 82.6615 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 218.7948 82.6615 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d11a93ee-bbc5-47df-b420-3dc32c01aa6b)
     (property "Reference" "U6" (id 0) (at 225.1448 80.7564 0)
@@ -387,7 +387,7 @@
     (pin "4" (uuid 0f2e9923-80f5-4cf4-833f-1a6fa7fed589))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 199.39 31.75 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 199.39 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d86a7d50-e8d6-4242-a050-4040ac0a1f19)
     (property "Reference" "U4" (id 0) (at 205.74 29.8449 0)
@@ -414,7 +414,7 @@
     (pin "4" (uuid 9e2e2c12-24d4-485b-8a09-6cc5f2c61d6b))
   )
 
-  (symbol (lib_id "RPR_220:RPR-220") (at 209.9048 59.8015 0)
+  (symbol (lib_id "RPR_220:RPR-220") (at 209.9048 59.8015 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid de58e641-9ad5-4173-bead-6e926668f202)
     (property "Reference" "U5" (id 0) (at 216.2548 57.8964 0)
