@@ -1,4 +1,9 @@
 (sym_lib_table
   (lib (name "RPR_220")(type "KiCad")(uri "${KIPRJMOD}/lib/RPR_220.kicad_sym")(options "")(descr ""))
   (lib (name "ADP2291")(type "KiCad")(uri "${KIPRJMOD}/lib/ADP2291.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8212")(type "KiCad")(uri "${KIPRJMOD}/lib/DRV8212.kicad_sym")(options "")(descr ""))
+  (lib (name "74HC2G08DP")(type "KiCad")(uri "${KIPRJMOD}/lib/74HC2G08DP.kicad_sym")(options "")(descr ""))
+  (lib (name "AP2171AW")(type "KiCad")(uri "${KIPRJMOD}/lib/AP2171AW.kicad_sym")(options "")(descr ""))
+  (lib (name "MC6470")(type "KiCad")(uri "${KIPRJMOD}/lib/MC6470.kicad_sym")(options "")(descr ""))
+  (lib (name "DPS310XTSA1")(type "Legacy")(uri "${KIPRJMOD}/lib/DPS310XTSA1.lib")(options "")(descr ""))
 )
