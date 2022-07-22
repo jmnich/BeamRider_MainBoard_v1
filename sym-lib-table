@@ -6,4 +6,5 @@
   (lib (name "AP2171AW")(type "KiCad")(uri "${KIPRJMOD}/lib/AP2171AW.kicad_sym")(options "")(descr ""))
   (lib (name "MC6470")(type "KiCad")(uri "${KIPRJMOD}/lib/MC6470.kicad_sym")(options "")(descr ""))
   (lib (name "DPS310XTSA1")(type "Legacy")(uri "${KIPRJMOD}/lib/DPS310XTSA1.lib")(options "")(descr ""))
+  (lib (name "STLINK_V3MODS")(type "KiCad")(uri "${KIPRJMOD}/lib/STLINK_V3MODS.kicad_sym")(options "")(descr ""))
 )
