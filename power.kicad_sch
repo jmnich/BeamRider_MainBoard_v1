@@ -3688,9 +3688,9 @@
     (property "MPN" "TC1108-3.3VDBTR" (id 5) (at 238.76 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid acf42082-3cb0-48a4-a856-c062533b8fd9))
     (pin "2" (uuid a5dc19af-b722-4850-a602-5090c3582b0b))
     (pin "3" (uuid b69ec393-eae5-4703-b865-54ed4f4ad2cd))
-    (pin "1" (uuid acf42082-3cb0-48a4-a856-c062533b8fd9))
   )
 
   (symbol (lib_id "power:GND") (at 55.88 189.23 0) (unit 1)

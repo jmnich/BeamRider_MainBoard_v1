@@ -2462,9 +2462,6 @@
     (path "/57a63c99-7f7e-48cb-8e61-8ef0276bf28a/adb60e02-e401-4821-b9fa-afcb813c7175"
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
-    (path "/57a63c99-7f7e-48cb-8e61-8ef0276bf28a/07d9f0be-e1ff-49d5-8dbc-b0da3f23071b"
-      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
-    )
     (path "/57a63c99-7f7e-48cb-8e61-8ef0276bf28a/72e2329d-a69f-41ab-b3a6-3e05698e5e7d"
       (reference "#PWR0104") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -2831,6 +2828,54 @@
     (path "/609946a4-476d-49df-a6f7-4168ea2d2a59/d7118502-7f39-4474-9d37-5572d876f5a8"
       (reference "#PWR0225") (unit 1) (value "GND") (footprint "")
     )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/0c64e5e7-83d5-4cd5-b6bc-f8e6b8c953fb"
+      (reference "#PWR0226") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/755506a8-7517-44bc-a3b1-f31a65765212"
+      (reference "#PWR0227") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/50cddbf1-7e1b-46ff-aae6-e4f56403916c"
+      (reference "#PWR0228") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/37c30495-26a4-442e-80e6-928c37e3a171"
+      (reference "#PWR0229") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/4ce295d3-2339-4dbf-9157-9df2f36c288f"
+      (reference "#PWR0230") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/413d9b6c-1515-42b4-bab5-76b5cbfb547f"
+      (reference "#PWR0231") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/0f10f5b7-9489-4522-9980-5f53f47f07af"
+      (reference "#PWR0232") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/b45364aa-631f-4771-8db5-a9f2aec05e0a"
+      (reference "#PWR0233") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/890cbcc9-ef0e-486b-8f6e-293982404c3d"
+      (reference "#PWR0234") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/bef16a30-5fae-43ac-a581-6c80f6f9bf1d"
+      (reference "#PWR0235") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/2dd4e012-89c3-429f-ae21-cd1447758455"
+      (reference "#PWR0236") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/0a15350d-3b17-4c71-88f8-ac616c0114a7"
+      (reference "#PWR0237") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/ee3ffe0b-198c-4cb4-9f9f-300ddd272c14"
+      (reference "#PWR0238") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/3b864456-e212-48a4-b008-a714f177d9e3"
+      (reference "#PWR0239") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/dbbca076-befd-4373-9da7-ac6e7a27c5ab"
+      (reference "#PWR0240") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/57a63c99-7f7e-48cb-8e61-8ef0276bf28a/37a22feb-8883-4252-adb9-170a5567b878"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4b8dabb8-2cfb-49bf-8c5b-3a99d0c3a8a8/546d9f29-0814-4854-a572-2f8c235571d4"
       (reference "BT1") (unit 1) (value "LiION_18650") (footprint "Battery:BatteryHolder_Keystone_1042_1x18650")
     )
@@ -3107,50 +3152,50 @@
     (path "/4b8dabb8-2cfb-49bf-8c5b-3a99d0c3a8a8/72cb102f-8f2b-442a-a1da-d32b2fab3b3a"
       (reference "F3") (unit 1) (value "5A SLOW") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/3511a5e3-151d-4684-aea7-50ae3422fcf6"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/fb011f35-788d-4eac-9fff-bca57cbea1fa"
       (reference "H1") (unit 1) (value "Caster_hole") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/8d125212-f2f7-42e7-8240-d588b6be96e2"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/3c3d936b-fd1a-4e69-9867-05a066d5ff3c"
       (reference "H2") (unit 1) (value "Motor_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/88e731ed-acfa-468b-a521-a08dd683aa69"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/c4ac3af5-002c-4846-bcb0-47befb6418f6"
       (reference "H3") (unit 1) (value "Motor_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/011b42b2-48c7-4cbc-b826-460338ed1d0a"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/0e38473f-afe6-40f5-bc89-d767ad124511"
       (reference "H4") (unit 1) (value "Interface_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/d08b606f-f638-40be-80c2-be3c7d67939b"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/00f9a553-13c0-406d-adc8-01ff9c5ea32e"
       (reference "H5") (unit 1) (value "Interface_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/753e8bd0-3428-4506-9ba5-72bfc90f5b19"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/f7cc76a8-25b0-4d08-8120-8b28eb434fae"
       (reference "H6") (unit 1) (value "Caster_hole") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/ba602e02-e937-48df-9ef7-baba617252c1"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/9b039f81-eee8-4a91-9710-0947a72da4a4"
       (reference "H7") (unit 1) (value "Motor_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/2990a8ac-1339-4056-9ada-4f3359af9889"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/e06b11c4-7cfe-4d19-9381-5f07e93dba81"
       (reference "H8") (unit 1) (value "Motor_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/0430904a-3c38-4aeb-958c-882ef5b9142a"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/5d6419ed-7fa1-42fa-868a-a7e1f2de2468"
       (reference "H9") (unit 1) (value "Interface_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/6f11fc21-1abf-4e2c-8f35-d73648d1b054"
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/54ff3476-ada6-4647-a31c-7a1bef46bb2c"
       (reference "H10") (unit 1) (value "Interface_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/2bb9e33d-d13f-4554-9b38-3d156d82fc06"
-      (reference "H11") (unit 1) (value "Bumper_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/528ee361-eced-477e-8f98-38bf45cc74c7"
+      (reference "H11") (unit 1) (value "Bumber_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/634d1860-7fde-47ad-b05e-2b0544f5c519"
-      (reference "H12") (unit 1) (value "Bumper_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/ae385d80-d3db-4cc7-ace8-673296d59b56"
+      (reference "H12") (unit 1) (value "Bumber_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/d801b0ff-5e74-4689-b316-8d15e20ef9e5"
-      (reference "H13") (unit 1) (value "Bumper_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/63819f26-0510-4a86-bf7f-417fe57c764e"
+      (reference "H13") (unit 1) (value "Bumber_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/df5df4c5-7a03-43bc-9bc1-3d5b7b0c79fa"
-      (reference "H14") (unit 1) (value "Bumper_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/2be303f5-75de-4482-8e56-5fff5d40cefb"
+      (reference "H14") (unit 1) (value "Bumber_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
-    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/84145572-7f1f-4c3c-81c2-349f0779e1f3"
-      (reference "H15") (unit 1) (value "Bumper_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    (path "/75dee642-618b-4ed2-b6e1-8db2e50d8e51/e5929079-4eec-4837-80ef-3acbd421a0f8"
+      (reference "H15") (unit 1) (value "Bumber_hole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/4b8dabb8-2cfb-49bf-8c5b-3a99d0c3a8a8/182bbce8-2169-4982-af6b-a09f46395a8b"
       (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal")
@@ -3633,7 +3678,7 @@
       (reference "RV1") (unit 1) (value "100k POT") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/17c8d44a-e155-4998-81cb-438e1ee83fa9/38c016c4-20f6-4d7e-803c-019d38d9e2ee"
-      (reference "SW1") (unit 1) (value "RST") (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm")
+      (reference "SW1") (unit 1) (value "RST") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
     )
     (path "/4b8dabb8-2cfb-49bf-8c5b-3a99d0c3a8a8/15a3bc17-9eeb-466c-8c48-f11777dec909"
       (reference "SW2") (unit 1) (value "OS102011MS2QN1") (footprint "Button_Switch_THT:SW_Slide_1P2T_CK_OS102011MS2Q")
