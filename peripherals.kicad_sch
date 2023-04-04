@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Peripherals")
+    (date "2023-04-04")
+    (rev "1")
+    (company "Wrocław University of Science and Technology")
+    (comment 1 "Opensource educational robotic platform")
+    (comment 2 "Author: Jakub Mnich (jakub.mnich@pwr.edu.pl)")
+  )
+
   (lib_symbols
     (symbol "74xGxx:SN74LVC1G14DBV" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -2.54 5.08 0)

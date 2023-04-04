@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Top-level signal interconnect")
+    (date "2023-04-04")
+    (rev "1")
+    (company "Wrocław University of Science and Technology")
+    (comment 1 "Opensource educational robotic platform")
+    (comment 2 "Author: Jakub Mnich (jakub.mnich@pwr.edu.pl)")
+  )
+
   (lib_symbols
     (symbol "Device:R_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 0.762 0.508 0)

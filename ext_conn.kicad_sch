@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "External connectors")
+    (date "2023-04-04")
+    (rev "1")
+    (company "Wrocław University of Science and Technology")
+    (comment 1 "Opensource educational robotic platform")
+    (comment 2 "Author: Jakub Mnich (jakub.mnich@pwr.edu.pl)")
+  )
+
   (lib_symbols
     (symbol "Connector:Screw_Terminal_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 2.54 0)
